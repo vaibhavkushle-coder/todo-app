@@ -10,7 +10,7 @@ A simple and powerful Todo App built using React.
 - LocalStorage (data saved after refresh)
 - Responsive UI
 
-![Todo App](Screenshot 2026-04-14 142240.png)
+![Todo App](Screenshot%202026-04-14%20142240.png)
 
 ## 🔗 Live Demo
 (Add your live link here)
