@@ -13,7 +13,7 @@ A simple and powerful Todo App built using React.
 ![Todo App](Screenshot%202026-04-14%20142240.png)
 
 ## 🔗 Live Demo
-(Add your live link here)
+[Click here to view my App](https://todo-app-gilt-ten-99.vercel.app/)
 
 ## 🛠️ Tech Used
 - React JS
